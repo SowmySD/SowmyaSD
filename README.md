@@ -1,11 +1,35 @@
+# 👋 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sowmya S D) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sowmya SD) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sowmyadinakaran20@gmail.com) 
+Hi! I'm **Sowmya S D**, an enthusiastic and driven **M.Sc. Integrated Data Science** student at **Thiagarajar College of Engineering (TCE), Madurai**. I’m passionate about using data to uncover insights and build intelligent systems that solve real-world problems.
+
+🎓 Currently pursuing my integrated master's degree in Data Science.  
+💡 I enjoy exploring machine learning, AI, and data visualization techniques.  
+🚀 Actively building projects, participating in hackathons, and preparing for placement opportunities.  
+🧠 Strong foundation in Python, SQL, statistics, and data analysis tools.  
+💬 Always open to collaboration, mentorship, and knowledge sharing.
+
+---
+
+## 🌱 Current Focus
+
+- [x] Enhancing my DSA and problem-solving skills  
+- [x] Working on ML/AI-based academic and personal projects  
+- [x] Preparing for data-focused roles in industry  
+- [x] Exploring tools like Power BI, Tableau, and cloud platforms  
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 LinkedIn: [https://linkedin.com/in/Sowmya S D]
+- 💻 GitHub: [https://medium.com/@Sowmya SD]
+- 📧 Email: [mailto:sowmyadinakaran20@gmail.com]
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SowmySD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SowmySD&theme=dark&hide_border=false)<br/>
@@ -14,4 +38,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SowmySD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Thanks for checking out my profile! 😊 Feel free to connect!
