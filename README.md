@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi! I'm **Sowmya S D**, an enthusiastic and driven **M.Sc. Integrated Data Science** student at **Thiagarajar College of Engineering (TCE), Madurai**. I’m passionate about using data to uncover insights and build intelligent systems that solve real-world problems.
+Hi! I'm **Sowmya S D**, an enthusiastic and driven **Data Science** student passionate about using data to uncover insights and build intelligent systems that solve real-world problems.
 
 🎓 Currently pursuing my integrated master's degree in Data Science.  
 💡 I enjoy exploring machine learning, AI, and data visualization techniques.  
