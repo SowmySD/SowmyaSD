@@ -21,8 +21,8 @@ Hi! I'm **Sowmya S D**, an enthusiastic and driven **Data Science** student pass
 
 ## 📫 Connect with Me
 
-- 🔗 LinkedIn: [https://linkedin.com/in/Sowmya S D]
-- 💻 GitHub: [https://medium.com/@Sowmya SD]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/sowmyasd/]
+- 💻 Medium: [https://medium.com/@sowmya.dina2004]
 - 📧 Email: [mailto:sowmyadinakaran20@gmail.com]
 
 
