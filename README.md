@@ -43,6 +43,3 @@ Hi! I'm **Sowmya S D**, an enthusiastic and driven **Data Science** student pass
 
 
 Thanks for checking out my profile! 😊 Feel free to connect!
-
-
-![Snake animation](https://raw.githubusercontent.com/SowmySD/SowmySD/output/github-contribution-grid-snake-dark.svg)
